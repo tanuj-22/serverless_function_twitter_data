@@ -12,13 +12,13 @@ https://twitterdata.vercel.app/
 
 #### Get Trends
 
-```http
+```https
   GET /gettrends
 ```
 
 #### Search Query
 
-```http
+```https
   GET /search?query=<your_query>
 ```
 
@@ -31,7 +31,7 @@ https://twitterdata.vercel.app/
 
 #### Search User
 
-```http
+```https
   GET /user?username=<your_username>
 ```
 
@@ -42,7 +42,7 @@ https://twitterdata.vercel.app/
 
 #### Search Hashtag
 
-```http
+```https
   GET /hashtag?query=<your_query>
 ```
 
