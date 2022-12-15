@@ -1,5 +1,5 @@
 
-# Serverless Function for Twitter API 
+# Serverless Function for Twitter Data 
 
  A serverless function written in Python and Flask to retrieve Twitter data such as trends, search queries, and hashtags, as well as user information.
 
